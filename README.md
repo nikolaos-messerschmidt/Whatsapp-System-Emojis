@@ -1,4 +1,4 @@
-# Wasysmoji
+# WA-sysmoji
 
 
 # WARNING: (YOU NEED ROOT TO USE THIS☹️☹️☹️) #
