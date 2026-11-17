@@ -36,7 +36,7 @@ Sign the APK with your own keystore before installing it.
 ## How does this work?
 
 The module targets the WhatsApp build whose obfuscated classes are currently configured in `Hook.kt`. WhatsApp updates may rename those classes.
-I'll update this in case it breaks again.
+I'll update this in case it breaks.
 
 
 ## Tested on: 
