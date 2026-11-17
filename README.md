@@ -1,5 +1,8 @@
 # Wasysmoji
 
+
+# WARNING: (YOU NEED ROOT TO USE THIS☹️☹️☹️) #
+
 LSPosed module that makes WhatsApp render chat emojis with Android's system emoji font instead of WhatsApp's bundled emoji graphics.
 
 ## Features
@@ -30,8 +33,17 @@ Sign the APK with your own keystore before installing it.
 3. Scope the module to WhatsApp.
 4. Force-stop and reopen WhatsApp.
 
-## Compatibility
+## How does this work?
 
-The module targets the WhatsApp build whose obfuscated classes are currently configured in `Hook.kt`. WhatsApp updates may rename those classes; update the constants and test again if the hooks stop loading.
+The module targets the WhatsApp build whose obfuscated classes are currently configured in `Hook.kt`. WhatsApp updates may rename those classes.
+I'll update this in case it breaks again.
 
+
+## Tested on: 
+- Google Pixel 10 (Unlocked Bootloader)
+- Android 17 (CP4A.261105.040.A)
+- Magisk 31.1
+- Whatsapp 2.26.44.90 (At the time newest version)
+
+Please don't sue me Meta this does not unlock any paid features ☹️☹️☹️ (This just gets rid of your Shitty iOS-like knockoff emojis)
 This project is not affiliated with WhatsApp, Meta, Android, or LSPosed.
