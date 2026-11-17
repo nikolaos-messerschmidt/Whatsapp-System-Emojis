@@ -58,12 +58,12 @@ I'll update this in case it breaks again.
       <img width="286" src="https://github.com/user-attachments/assets/acb1055b-7e3d-44c9-91e5-0c4667b81709" />
     </td>
     <td align="center">
-      <b>Blobmojis (Best Emojis of all time)</b><br>
+      <b>Blobmojis (Best Emojis ever)</b><br>
       <img width="286" src="https://github.com/user-attachments/assets/8dcbdbe6-c382-45f0-84bf-0cd57f43dc45" />
     </td>
   </tr>
 </table>
 
 
-Please don't sue me Meta this does not unlock any paid features ☹️☹️☹️ (This just gets rid of your Shitty iOS-like knockoff emojis)
+Please don't sue me Meta, this does not unlock any paid features ☹️☹️☹️ (It just gets rid of your Shitty iOS-like knockoff emojis)
 This project is not affiliated with WhatsApp, Meta, Android, or LSPosed.
