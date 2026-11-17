@@ -45,5 +45,25 @@ I'll update this in case it breaks again.
 - Magisk 31.1
 - Whatsapp 2.26.44.90 (At the time newest version)
 
+## Showcase:
+
+<table>
+  <tr>
+    <td align="center">
+      <b>WhatsApp Base (No module)</b><br>
+      <img width="286" src="https://github.com/user-attachments/assets/51b5bd37-e60a-4ff3-a941-d28898f6fc47" />
+    </td>
+    <td align="center">
+      <b>Noto Emojis</b><br>
+      <img width="286" src="https://github.com/user-attachments/assets/acb1055b-7e3d-44c9-91e5-0c4667b81709" />
+    </td>
+    <td align="center">
+      <b>Blobmojis (Best Emojis of all time)</b><br>
+      <img width="286" src="https://github.com/user-attachments/assets/8dcbdbe6-c382-45f0-84bf-0cd57f43dc45" />
+    </td>
+  </tr>
+</table>
+
+
 Please don't sue me Meta this does not unlock any paid features ☹️☹️☹️ (This just gets rid of your Shitty iOS-like knockoff emojis)
 This project is not affiliated with WhatsApp, Meta, Android, or LSPosed.
