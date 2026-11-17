@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+**/build/
+
+# Local IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local screenshots and test artifacts
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Signing and local secrets
+*.jks
+*.keystore
+*.p12
+local.properties
+
+# APK outputs
+*.apk
+*.aab
+*.idsig
